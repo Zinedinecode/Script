@@ -1,1 +1,1 @@
-game.Players.LocalPlayer:Kick("Z Hub is discontinued, and most likely stay discontinued, thanks for all the support!")
+print("Z Hub is updating! please kindly wait.")
